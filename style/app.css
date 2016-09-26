@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+#top-nav {
+  color: #555;
+  font-family: sans-serif;
+  border-top: 4px solid #f03766;
+  border-bottom: 1px solid #555;
+  overflow: auto;
+}
+
+.title {
+  color: #f03766;
+  float: left;
+}
+
+#top-nav ul {
+  float: right;
+}
